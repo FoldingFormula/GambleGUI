@@ -1,0 +1,9 @@
+main: me.Folding.GambleGUI.Main
+name: GambleGUI
+version: 1.0
+author: Folding
+api-version: 1.13
+commands: 
+  noobchest:
+  noobchestkey:
+description: -no desc-
